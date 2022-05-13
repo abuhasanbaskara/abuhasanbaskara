@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abuhasanbaskara
+- 👋 Hi, I’m @abuhasanbaskara. Has 3+ years experience of working and mostly in Japanese Company
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Android, Laravel PHP, Vue.js
 - 💞️ I’m looking for freelance or full-time job as Android developer/ Android Engineer
