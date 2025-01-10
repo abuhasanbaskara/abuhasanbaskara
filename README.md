@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abuhasanbaskara. Has 5+ years experience of working and mostly in Japanese Company
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Android, Laravel PHP, Vue.js
+- 👀 I’m interested in Mobile Development
+- 🌱 I’m currently learning Android, Flutter
 - 💞️ I’m looking for freelance or full-time job as Android developer/ Android Engineer / Flutter
 - 📫 You can reach me trough instagram https://www.instagram.com/abuhasan.baskara.5/
 
