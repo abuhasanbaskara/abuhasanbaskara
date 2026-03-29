@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abuhasanbaskara. Has 5+ years experience of working and mostly in Japanese Company
+- 👋 Hi, I’m @abuhasanbaskara. Has 6+ years experience of working and mostly in Japanese Company
 - 👀 I’m interested in Mobile Development
 - 🌱 I’m currently learning Android, Flutter
 - 💞️ I’m looking for freelance or full-time job as Android developer/ Android Engineer / Flutter
